@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Varkey Mathan
 
-<!--
-**varkei/varkei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cyber Security Analyst with a Master's degree in Software Design with Cybersecurity and CompTIA Security+ certification.
 
-Here are some ideas to get you started:
+I am building hands-on experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SOC operations
+- Alert triage
+- Phishing analysis
+- SIEM and log analysis
+- Wireshark and packet analysis
+- Windows and Linux fundamentals
+- Networking fundamentals
+- Active Directory basics
+- Splunk and Elastic investigations
+
+## Certifications
+
+- CompTIA Security+
+- Google Cybersecurity Professional Certificate
+- Cloud Security Fundamentals – Palo Alto Networks
+- Certified Expert Penetration Tester (CEPT)
+
+## Skills
+
+- SIEM (Splunk, Elastic fundamentals)
+- Log Analysis
+- Alert Triage
+- Phishing Analysis
+- Wireshark
+- NetworkMiner
+- Windows & Linux
+- TCP/IP, DNS, HTTP, SMTP
+- Active Directory Basics
+- Incident Investigation
+- SOC Reporting
+- EDR / SOAR Fundamentals
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/varkey-mathan/
+- Email: varkeymathan2001@gmail.com
